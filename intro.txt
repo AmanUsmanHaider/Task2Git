@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 Name : Malik Ali
 Designation : Laravel Intern
-=======
-Nama : Abdul Muqeet Alam
-Designation : Angular Developer
-My name is Aman Usman
-I am Laravel Developer
->>>>>>> 93b43c0882f68787e63d70fa7c2bf21b6fe6ab65
