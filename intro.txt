@@ -1,2 +1,13 @@
 Name : Malik Ali
 Designation : Laravel Intern
+Name : M Asad Saleem 
+Designation: Blockchain Developer
+
+Name : Malik Ali
+Designation : Laravel Intern
+
+Nama : Abdul Muqeet Alam
+Designation : Angular Developer
+
+My name is Aman Usman
+I am Laravel Developer
